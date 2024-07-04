@@ -1,4 +1,4 @@
-site_name: How To Work by BIRU
+site_name: Biru is my Guru
 
 theme:
   name: material
@@ -23,8 +23,8 @@ theme:
 
   language: en
   
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/logo/logo.png
+  favicon: assets/logo/logo.png
   
   features:
     - navigation.instant
