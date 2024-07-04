@@ -1,0 +1,54 @@
+site_name: How To Work by BIRU
+
+theme:
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: blue grey
+      accent: light blue
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: blue grey
+      accent: light blue        
+
+  font:
+    text: Bitter
+
+  language: en
+  
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/birat-jung-thapa/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/birat_jg/
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
