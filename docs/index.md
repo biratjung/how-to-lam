@@ -1,18 +1,24 @@
-# Welcome to How to Work by BIRU    
+# Welcome to How to Work by BIRU   
 <!-- 
 <figure markdown="span">
   ![Image title](./assets/test.png){ width="500" }
   <figcaption>The Main Floor</figcaption>
-</figure> -->
-
-# How to Work at a Restaurant as a Waiter
+</figure> --> 
 
 ## Introduction
-Working as a waiter involves providing excellent customer service, taking orders, serving food and beverages, and ensuring a pleasant dining experience for guests. This guide will walk you through the essential steps and tips for excelling in this role.
+This is a walkthrough to give you a general idea on how to work at Lamsheds, Yarralumla. If you are seeing this, you should be more than familiar with the basics.
 
-## 1. Preparing for Your Shift
+The basics, if you are not, includes:
 
-### Dress Code
+- Introducing the Staff
+- Table numbers
+- How to take the food to the table / What' in the pass
+- How to carry plates and how to clear & reset tables
+     - How to set for À la carte or dessert     
+
+### 1. Preparing for Your Shift
+
+#### Dress Code
 - Wear a clean, ironed uniform.
 - Ensure your shoes are polished and comfortable.
 - Maintain good personal hygiene.
