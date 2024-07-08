@@ -1,4 +1,4 @@
-icon:material/chess-king
+<!-- icon:material/chess-king -->
 
 # THE BACK OF THE HOUSE
 

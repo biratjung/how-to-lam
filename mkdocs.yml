@@ -1,7 +1,7 @@
 site_name: Biru is my Guru
 
 nav:
-   - Home:
+   - Home: 
       - 'Front of House': intro_page/index.md
       - 'Back of House' : intro_page/index2.md
    - Where are they?:
@@ -48,8 +48,6 @@ theme:
     - toc.follow
     - navigation.top
     
-  plugins:
-    - typeset
 
 extra:
   social:

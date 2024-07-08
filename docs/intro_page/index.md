@@ -1,4 +1,4 @@
-icon:material/chess-queen
+<!-- icon:material/chess-queen -->
 
 # Teach me Biru Sensei!! :smile:
 
