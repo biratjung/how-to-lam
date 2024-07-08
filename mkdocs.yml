@@ -1,5 +1,16 @@
 site_name: Biru is my Guru
 
+nav:
+   - Home:
+      - 'Front of House': intro_page/index.md
+      - 'Back of House' : intro_page/index2.md
+   - Where are they?:
+       - 'The Bar': where_is_page/TheBar.md
+       - 'Under the Sections': where_is_page/Sections.md
+   - How to?:
+      - 'Float': how_to_page/float.md
+
+
 theme:
   name: material
   palette: 
@@ -33,8 +44,8 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.path
+    - navigation.footer
     - toc.follow
-    - toc.integrate
     - navigation.top
 
 extra:
@@ -45,6 +56,9 @@ extra:
       link: https://www.instagram.com/birat_jg/
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - md_in_html
   - pymdownx.emoji:

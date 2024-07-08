@@ -1,14 +1,3 @@
-# Starting from the Begining
-Now that we are familiar with every one in the restaurant, let's look at the blueprint of the floor.
-The image below is roughly how the restaurant is laid out, although it is slightly out of proportion, this is to give you a general idea.
-
-<figure markdown="span">
-  ![Image title](./assets/doc_img/layout.png){ width="80%" height="50%"}
-  <figcaption>The Layout</figcaption>
-</figure>
-
-## The Basics
-
 
 ### 1. Preparing for Your Shift
 
