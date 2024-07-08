@@ -47,6 +47,9 @@ theme:
     - navigation.footer
     - toc.follow
     - navigation.top
+    
+  plugins:
+    - typeset
 
 extra:
   social:
