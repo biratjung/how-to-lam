@@ -1,4 +1,4 @@
-<!-- icon:material/glass-wine -->
+icon:material/glass-wine
 
 # Starting from where things are
 Now that we are familiar with every one in the restaurant, let's look at the blueprint of the floor.
