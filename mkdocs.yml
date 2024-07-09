@@ -2,8 +2,8 @@ site_name: Biru is my Guru
 
 nav:
    - Home: 
-      - 'Front of House': intro_page/index.md
-      - 'Back of House' : intro_page/index2.md
+      - 'Front of House': intro_page/front.md
+      - 'Back of House' : intro_page/back.md
    - Where are they?:
        - 'The Bar': where_is_page/TheBar.md
        - 'Under the Sections': where_is_page/Sections.md
