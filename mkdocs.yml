@@ -2,13 +2,14 @@ site_name: Biru is my Guru
 
 nav:
    - Home: 
-      - 'Introduction': index.md
+      - 'Preface': index.md
       - 'Front of House': intro_page/front.md
       - 'Back of House' : intro_page/back.md
    - Layout:
        - 'The Bar': where_is_page/TheBar.md
        - 'The Sections': where_is_page/Sections.md
-   - How to?:
+   - Roles:
+      - 'Brief': how_to_page/brief.md
       - 'Float': how_to_page/float.md
 
 

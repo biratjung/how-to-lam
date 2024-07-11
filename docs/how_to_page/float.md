@@ -1,3 +1,4 @@
+icon:material/floor-lamp-torchiere-variant
 
 ### 1. Preparing for Your Shift
 
