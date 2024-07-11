@@ -54,5 +54,5 @@ Next to the back door is 'the other station' as same as the first station, folde
 Now that we know where everything goes, click the button below to know how to perform your assigned role.
 
 
-[Let's Start Working](../how_to_page/float.md){ .md-button }
+[Let's Start Working](../how_to_page/brief.md){ .md-button }
 
