@@ -2,11 +2,12 @@ site_name: Biru is my Guru
 
 nav:
    - Home: 
+      - 'Introduction': index.md
       - 'Front of House': intro_page/front.md
       - 'Back of House' : intro_page/back.md
-   - Where are they?:
+   - Layout:
        - 'The Bar': where_is_page/TheBar.md
-       - 'Under the Sections': where_is_page/Sections.md
+       - 'The Sections': where_is_page/Sections.md
    - How to?:
       - 'Float': how_to_page/float.md
 

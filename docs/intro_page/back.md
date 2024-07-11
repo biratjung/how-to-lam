@@ -82,7 +82,7 @@ icon:material/chess-king
 
 
 
-Now that we know everyone, click the button below to know where thing are.
+Now that we know everyone, let's get familiar with the resturant layout.
 
 
-[Let's See Where they Belong](../where_is_page/TheBar.md){ .md-button }
+[Get Started on Knowing the floor](../where_is_page/TheBar.md){ .md-button }

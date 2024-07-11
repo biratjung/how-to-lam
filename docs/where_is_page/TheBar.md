@@ -1,6 +1,7 @@
 icon:material/glass-wine
 
-# Starting from where things are
+# Starting from the Layout
+
 Now that we are familiar with every one in the restaurant, let's look at the blueprint of the floor.
 The image below is roughly how the restaurant is laid out, although it is slightly out of proportion, this is to give you a general idea.
 
@@ -60,7 +61,7 @@ Just above the coffee machine is the liquor shelf. Consult other front staff for
 
 #### Sink and Garbage
 
-Just as the name says, it's a sink. There is also a dunker where you are to fill hotwater and soap. Dunk the dirty glasses and place them in the rack in the draining section. Once full or 3/4 full, send them into the glass washing machine just under the metallic tray on the right. The metallic tray that holds all the water bottles. Fill the empty bottles with cold water before and during your shift. Empty them out during closing.
+Just as the name says, it's a sink. There is also a dunker where you are to fill hotwater and soap. Dunk the dirty glasses and place them in the rack in the draining section. On the right of the draining section is where the chemical spray to wipe down the tables is. Once full or 3/4 full, send them into the glass washing machine just under the metallic tray on the right. The metallic tray that holds all the water bottles. Fill the empty bottles with cold water before and during your shift. Empty them out during closing.
 <br>
 Under the sink is the Garbage bin.
 <br> 
@@ -112,7 +113,7 @@ The second one from the bottom also contains the Red wines by the glass on the l
 The bottom shelf houses the regular wine glasses on the left, some expensive wines in the middle, different types of glasses, a candelabra, and lighers. On it's right, decanters, tall glasses, soda water, and San Bitters.   
 <br>
 
-Under the wine shelf, there are some wine boxes. Restore them in the shelf if necesasry.
+Under the wine shelf, there are some wine boxes. Stack them in the shelf if necesasry.
 <br>
 
 *More importantly*, there is a bin for dirty napkins, which, if full, transfer some in a bin liner, and place them under baby cots right next to it. 
@@ -122,7 +123,7 @@ There could also be beer kegs, if there is any empty one, take it outside from t
 
 The whites and roses are on this fridge. The left part of the fridge contains the can beers, ciders, citruses, prosecco, and cold glasses for the beer.
 
-On top of this fridge is the counter where you can find different mixers to make cocktails. On the leftmost side, there are all the stuff needed to make cocktails. There is also the beer tap on the left side.
+On top of this fridge is the counter where you can find different mixers to make cocktails. On the leftmost side, there are all the stuff needed to make cocktails. There is also the beer tap on the left side. Ususally, the right most side has the wine coolers.
 <br> <br>
 Under the beer tap is the beer keg and the machine that runs the tap. On its right, between the fidge and keg is the place where the recycling bin is. When full or at the end of the shift, empty it out on the bins outside.
 

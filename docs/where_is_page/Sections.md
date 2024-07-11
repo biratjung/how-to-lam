@@ -15,7 +15,7 @@ Starting from Table 11-12 to Table 14, find the items *accrodingly* in the list 
 <li>Some Wine Box</li>
 </ol>
 
-Now from Table 14 to Table 16, there are wine glass boxes which are taken out only on some occassions.
+Now from Table 14 to Table 16, there are coffee beans, wine glass boxes which are to be taken out only on some occassions.
 
 Then between Table 16 to Table 18-19, the items that can be found are 
 <ul>

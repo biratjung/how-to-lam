@@ -11,7 +11,7 @@ Though you might call me "Biru".
 <figure markdown="span" >
   ![Image title](../assets/doc_img/img_birat.jpg){ width=70% }
   <figcaption> 
-  Biru 
+  Birat Jung Thapa
   <br> 
   Likes: Nothing 
   <br> 
