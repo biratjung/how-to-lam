@@ -21,6 +21,20 @@ Though you might call me "Biru".
   </figcaption>
 </figure>
 
+## Eliza Fulivai
+<figure markdown="span" >
+  ![Image title](../assets/doc_img/eliza.jpg){ width=70% }
+  <figcaption> 
+  Eliza 
+  <br> 
+  Likes: her niece and nephews 
+  <br> 
+  Dislikes: to race 
+  <br>
+  "wow, this is so cool"
+  </figcaption>
+</figure>
+
 ## Emily Ryan
 
 <figure markdown="span" >
