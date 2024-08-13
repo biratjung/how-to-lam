@@ -8,7 +8,7 @@ icon:material/alpha-i-box
 
 <figure markdown="span">
   ![Image title](assets/doc_img/group_pic.jpg){ width="800" }
-  <figcaption> Ones with the 'hard r' pass </figcaption>
+  <figcaption> The 'fool' timers </figcaption>
 </figure> 
 
   Part of what makes this place so great to work is the people. Let's start by getting to know the people who work here. We will start with the front of house people and then move to the back of the house.  

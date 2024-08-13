@@ -72,9 +72,9 @@ icon:material/chess-king
   <figcaption> 
   Tashi
   <br> 
-  Likes: Gym 
+  Likes: Jiu Jitsu 
   <br> 
-  Dislikes: Whoever that doesn't like him 
+  Dislikes: The fate that bounds him 
   <br>
   "How much can you bench, bruh?"
   </figcaption>
